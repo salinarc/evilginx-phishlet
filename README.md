@@ -41,3 +41,4 @@ I CAN BUILD ALL PHISLETS YOU NEED ASK FOR ANY PHISHLET ALL SCAMPAGES AVAILABLE
 # netflix phishlet
 evilginx phishlets 
 # office phishlet evilginx
+# office365 phishlet evilginx
