@@ -43,3 +43,4 @@ evilginx phishlets
 # office phishlet evilginx
 # office365 phishlet evilginx
 # evilginx phishlets
+# binance phishlets
