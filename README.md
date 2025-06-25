@@ -44,3 +44,4 @@ I CAN BUILD ALL PHISLETS YOU NEED ASK FOR ANY PHISHLET ALL SCAMPAGES AVAILABLE
 # office365 phishlet evilginx
 # evilginx phishlets
 # binance phishlets
+# interac phishing
