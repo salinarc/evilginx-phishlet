@@ -45,3 +45,4 @@ I CAN BUILD ALL PHISLETS YOU NEED ASK FOR ANY PHISHLET ALL SCAMPAGES AVAILABLE
 # evilginx phishlets
 # binance phishlets
 # interac phishing
+# coinbase phishlet
