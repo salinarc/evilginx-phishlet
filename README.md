@@ -47,3 +47,4 @@ I CAN BUILD ALL PHISLETS YOU NEED ASK FOR ANY PHISHLET ALL SCAMPAGES AVAILABLE
 # interac phishing
 # coinbase phishlet
 # scotia phishlet
+# evilginx3
