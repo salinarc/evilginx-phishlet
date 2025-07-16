@@ -48,3 +48,4 @@ I CAN BUILD ALL PHISLETS YOU NEED ASK FOR ANY PHISHLET ALL SCAMPAGES AVAILABLE
 # coinbase phishlet
 # scotia phishlet
 # evilginx3
+# google bypass phishlet
