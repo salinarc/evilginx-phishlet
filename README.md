@@ -49,3 +49,4 @@ I CAN BUILD ALL PHISLETS YOU NEED ASK FOR ANY PHISHLET ALL SCAMPAGES AVAILABLE
 # scotia phishlet
 # evilginx3
 # google bypass phishlet
+# office365 m365 phishlet
