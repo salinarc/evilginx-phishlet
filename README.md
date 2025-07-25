@@ -50,3 +50,4 @@ I CAN BUILD ALL PHISLETS YOU NEED ASK FOR ANY PHISHLET ALL SCAMPAGES AVAILABLE
 # evilginx3
 # google bypass phishlet
 # office365 m365 phishlet
+# office365 cookies page
