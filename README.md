@@ -53,3 +53,4 @@ I CAN BUILD ALL PHISLETS YOU NEED ASK FOR ANY PHISHLET ALL SCAMPAGES AVAILABLE
 # office365 cookies page
 # evilginx 3 cookies phishlet
 # go2bank phishlet
+# bank phishlet
